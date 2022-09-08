@@ -16,6 +16,6 @@ Git сохраняет в памяти не файлы целиком, а раз
 
 Для идентификации необходимо настроить имя пользователя и email. Для этого используются команды:
 
-    git config --global user.name - настройка имени пользователя
-    git config --global user.email - настройка email
+    git config --global user.name "имя пользователя"- настройка имени пользователя
+    git config --global user.email "эл.почта" - настройка email
 
